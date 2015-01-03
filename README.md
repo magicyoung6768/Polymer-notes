@@ -16,7 +16,7 @@ Polymer 相关视频
   - [Polymer: State of the Union - Chrome Dev Summit 2014 (Matt McNulty)](https://www.youtube.com/watch?v=0LT6W5QVCJI&index=9&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
   - [Let’s build some apps with Polymer! - Chrome Dev Summit 2014 (Rob Dodson)](https://www.youtube.com/watch?v=kV0hgdMpH28&index=10&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
   - [Web Components and Polymer Panel - Chrome Dev Summit 2014](https://www.youtube.com/watch?v=JuO5AZBrpC8&index=13&list=PLOU2XLYxmsILE0KnGTKKj2SsOtxsK_y_d)
-
+  - [Differential: Meteor + Polymer -- December Devshop SF](http://www.youtube.com/watch?v=DsATeVvMIm4)
 
 Polymer 已用于生产环境
 ===========
@@ -34,6 +34,8 @@ Polymer 已用于生产环境
 12. http://bj.devfest.cn/
 13. http://polymerchina.org/
 14. http://gdgdc.com/
+15. http://famehub.co/
+16. https://usercycle.com/
 
 Polymer相关书籍
 =========
